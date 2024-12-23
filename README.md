@@ -4,7 +4,7 @@
 - 🌱 Estudando na Uninter
 - ⚡ Fato curioso: Agricultra familiar de feijão.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luana-create&show_icons=true&theme=tokyonight)
+
 
 
 <div style="display: inline_block"><br>
