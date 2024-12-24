@@ -1,8 +1,8 @@
 # Olá, sou a Luana 👋
 
-- 🔭 Hoje estou trabalhando com front-end
-- 🌱 Estudando na Uninter
-- ⚡ Fato curioso: Agricultra familiar de feijão.
+- 🔭 Hoje estou trabalhando com front-end.
+- 📚facebook Estudando na Uninter.
+- 🌱 Fato curioso: Agricultora familiar.
 
 
 
