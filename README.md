@@ -1,7 +1,7 @@
 # Olá, sou a Luana 👋
 
-- 🔭 Hoje estou trabalhando com front-end.
-- 📚 Estudando todo dia.
+- 🔭 Hoje estudandom front-end.
+- 📚 Todo dia.
 - 🌱 Fato curioso: Agricultora familiar.
 
 
